@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "lcd_display",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"fid":1,"LCD Display Name":"FABI display","Input ":"90V - 240V 50/60 HZ"},"geometry":{"type":"Point","coordinates":[28.235619746031585,-25.756141800162883]}},
+{"type":"Feature","properties":{"fid":2,"LCD Display Name":"Piazza display","Input ":"90V - 240V 50/60 HZ"},"geometry":{"type":"Point","coordinates":[28.231465459382793,-25.753937982613703]}},
+{"type":"Feature","properties":{"fid":3,"LCD Display Name":"Monastery display","Input ":"90V - 240V 50/60 HZ"},"geometry":{"type":"Point","coordinates":[28.233297992224493,-25.754379410693193]}}
+]
+}

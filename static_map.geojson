@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "static_map",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"fid":1,"id":1,"Name":"Sausage Saloon/Architecture Building","Parking Code":"B5","Road Name":"Ring Road","Map Language":"English/Afrikaans","Map Type":"Campus Map","Campus":"Hatfield"},"geometry":{"type":"Point","coordinates":[28.229004332901933,-25.755628138227564]}},
+{"type":"Feature","properties":{"fid":2,"id":2,"Name":"Communication Pathology ","Parking Code":"B3","Road Name":"Ring Road","Map Language":"English/Afrikaans","Map Type":"Campus Map","Campus":"Hatfield"},"geometry":{"type":"Point","coordinates":[28.229829289850542,-25.75579694749181]}},
+{"type":"Feature","properties":{"fid":3,"id":3,"Name":"SSC Parking","Parking Code":"B16","Road Name":"Ring Road","Map Language":"English/Afrikaans","Map Type":"Campus Map","Campus":"Hatfield"},"geometry":{"type":"Point","coordinates":[28.231650833066759,-25.756020275899914]}},
+{"type":"Feature","properties":{"fid":4,"id":5,"Name":"Drama Department","Parking Code":"B15","Road Name":"Ring Road","Map Language":"English/Afrikaans","Map Type":"Campus Map","Campus":"Hatfield"},"geometry":{"type":"Point","coordinates":[28.233175752710761,-25.756287449054]}},
+{"type":"Feature","properties":{"fid":5,"id":4,"Name":"Sci-Enza","Parking Code":null,"Road Name":"Ring Road","Map Language":"English","Map Type":"Campus Map","Campus":"Hatfield"},"geometry":{"type":"Point","coordinates":[28.23182122648549,-25.752297307951132]}}
+]
+}
